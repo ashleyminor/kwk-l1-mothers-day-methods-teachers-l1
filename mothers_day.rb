@@ -9,7 +9,7 @@
 
 ## Part Three - Mother's Day with One Optional Argument
 def mothers_day(name="Mom")
-	puts "Happy Mother's Day, #{name}! I hope you have a great day!"
+	puts "Happy Mother's Day, #{name}!"
 end
 
 mothers_day
